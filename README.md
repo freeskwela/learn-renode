@@ -1,2 +1,2 @@
-# learn-renode
-Learning Renode (Antmicro) Virtual Development Framework
+# Tutorial: Renode
+Tutorial on Renode (Antmicro) Virtual Development Framework
